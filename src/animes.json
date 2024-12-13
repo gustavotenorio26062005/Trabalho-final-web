@@ -1,0 +1,50 @@
+[
+  {
+    "titulo": "Darwin's Game",
+    "genero": "Ação",
+    "popularidade": 99,
+    "imagem_url": "https://i.imgur.com/CE1e64e.jpg"
+  },
+  {
+    "titulo": "Attack on Titan",
+    "genero": "Ação, Drama",
+    "popularidade": 95,
+    "imagem_url": "https://i.imgur.com/7cf59a3.jpg"
+  },
+  {
+    "titulo": "My Hero Academia",
+    "genero": "Ação, Comédia",
+    "popularidade": 90,
+    "imagem_url": "https://i.imgur.com/95c8bb1.jpg"
+  },
+  {
+    "titulo": "One Piece",
+    "genero": "Aventura, Ação",
+    "popularidade": 100,
+    "imagem_url": "https://i.imgur.com/d63f5a0.jpg"
+  },
+  {
+    "titulo": "Demon Slayer",
+    "genero": "Ação, Aventura",
+    "popularidade": 97,
+    "imagem_url": "https://i.imgur.com/63f1a5b.jpg"
+  },
+  {
+    "titulo": "Naruto",
+    "genero": "Aventura, Ação",
+    "popularidade": 98,
+    "imagem_url": "https://i.imgur.com/61e6f0e.jpg"
+  },
+  {
+    "titulo": "Bleach",
+    "genero": "Ação, Sobrenatural",
+    "popularidade": 92,
+    "imagem_url": "https://i.imgur.com/0f1e88f.jpg"
+  },
+  {
+    "titulo": "Fullmetal Alchemist",
+    "genero": "Ação, Aventura",
+    "popularidade": 94,
+    "imagem_url": "https://i.imgur.com/942efb4.jpg"
+  }
+]
